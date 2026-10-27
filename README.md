@@ -1,12 +1,12 @@
 # Comparative Feature Extraction: SIFT, ORB, and Deep Learning
 
-**Status Note:** This repository contains the full source code and results for the paper, "**Evaluating Traditional and Deep Feature Extraction Techniques with Logistic Regression and XGBoost Classifiers**." The full paper will be linked here upon official publication.
+**About:** This repository contains the full code and results of my benchmark study, "**Evaluating Traditional and Deep Feature Extraction Techniques with Logistic Regression and XGBoost Classifiers**" (M.S. work at the University of North Dakota). A written technical report is available on request.
 
 ---
 
 ### Project Objectives
 
-This research provides a rigorous benchmark of feature extraction techniques for image classification, focused on determining the optimal trade-off between **classification accuracy** and **computational efficiency** for practical deployment.
+This study provides a rigorous benchmark of feature extraction techniques for image classification, focused on determining the optimal trade-off between **classification accuracy** and **computational efficiency** for practical deployment.
 
 * **Feature Methods Compared:** SIFT, ORB, and ResNet50 Transfer Learning.
 * **Classification Pipeline:** Consistent two-stage model: Logistic Regression (Baseline) and XGBoost (Ensemble Meta-Classifier).
